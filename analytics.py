@@ -3,7 +3,7 @@ import pyrebase
 import matplotlib.pyplot as plt
 
 config = {
-  'apiKey': "AIzaSyAq0G9B-HBlLAxRKZzoC3eJnOtsyBu14Bk",
+  'apiKey': "",
   'authDomain': "smart-crowd-analytics.firebaseapp.com",
   'databaseURL': "https://smart-crowd-analytics-default-rtdb.asia-southeast1.firebasedatabase.app",
   'projectId': "smart-crowd-analytics",
